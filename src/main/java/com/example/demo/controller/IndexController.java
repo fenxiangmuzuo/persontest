@@ -9,6 +9,7 @@ public class IndexController {
 	public String sayHello() {
 		System.out.println("更新1");
 		System.out.println("新建分支DEV");
+		System.out.println("主干添加");
 		return "Hello World!";
 	}
 }
